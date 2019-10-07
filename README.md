@@ -53,3 +53,4 @@ AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.i
 - [Pickaface](http://pickaface.net/)
 - [Unsplash](https://unsplash.com/)
 - [Uifaces](http://uifaces.com/)
+基于 Bootstrap 3.x 的免费的后台 UI 框架
